@@ -27,3 +27,7 @@ sudo chmod +x odoo_install.sh
 ```
 sudo ./odoo_install.sh
 ```
+##### 5. Source:
+```
+https://github.com/Yenthe666/InstallScript/tree/11.0
+```
